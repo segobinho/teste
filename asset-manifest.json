@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matematicaatv/static/css/main.e6c13ad2.css",
+    "main.js": "/matematicaatv/static/js/main.b0b19ebe.js",
+    "static/js/453.666fdee9.chunk.js": "/matematicaatv/static/js/453.666fdee9.chunk.js",
+    "index.html": "/matematicaatv/index.html",
+    "main.e6c13ad2.css.map": "/matematicaatv/static/css/main.e6c13ad2.css.map",
+    "main.b0b19ebe.js.map": "/matematicaatv/static/js/main.b0b19ebe.js.map",
+    "453.666fdee9.chunk.js.map": "/matematicaatv/static/js/453.666fdee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0b19ebe.js"
+  ]
+}
